@@ -1,0 +1,14 @@
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\bin\Debug\net6.0\NewsPortalApi_Business.deps.json
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\bin\Debug\net6.0\NewsPortalApi_Business.dll
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\bin\Debug\net6.0\NewsPortalApi_Business.pdb
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.csproj.AssemblyReference.cache
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.AssemblyInfoInputs.cache
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.AssemblyInfo.cs
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.csproj.CoreCompileInputs.cache
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.dll
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\refint\NewsPortalApi_Business.dll
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.pdb
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\ref\NewsPortalApi_Business.dll
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\bin\Debug\net6.0\NewsPortalApi_Business.runtimeconfig.json
+C:\35inchSoftwareProject\NewsPortalWebApi\NewsPortalApi_Business\obj\Debug\net6.0\NewsPortalApi_Business.genruntimeconfig.cache
